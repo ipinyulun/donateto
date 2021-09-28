@@ -1,0 +1,37 @@
+SHIB:0x92F788C55e329c78FB84f7084a039078eE9F324d
+DOGE:D7vp88hnwRwc64V5HttmKxmt5c3t7pkYP8
+RVN:REcGqPF1psj3sRjRVYNnTiyDcc6Cw5sFyb == n6im-ivvk
+XMR:46urC5iQSA4LYFHxPu581N1FjKcCYptqfN721Z6Td14wjErRkyVtiyWWVzPsio7sxjb3tgPnCGN8VjgpnQmQKKhTMwaY9br
+
+
+	
+"user": "RVN:REcGqPF1psj3sRjRVYNnTiyDcc6Cw5sFyb.ipin18#rbt8-f9db",
+"user": "RVN:RDFbDtrnwaCuN78RQpfKk6q93BbkPPPhib.ipin18#n6im-ivvk",
+
+FIRO:aCQGRSbWpMCbP6A6qK67StSC951arY8ac8
+DOGE:DRD3VXu8M3yM7GWHzQdzpMYXLNKnYnYkro
+SHIB:0x0ec2102e191a3b5e0ffbfb93668a41fd0ad2c374
+RVN:RDFbDtrnwaCuN78RQpfKk6q93BbkPPPhib == rbt8-f9db
+SOL:EDNJXk7Dh8exDkXJbrjFsfXgtNbR3DNY7oEQwmWEerFm
+CHZ:0x0ec2102e191a3b5e0ffbfb93668a41fd0ad2c37
+
+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
+
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "rx.unmineable.com:3333",
+            "user": "RVN:RDFbDtrnwaCuN78RQpfKk6q93BbkPPPhib.ipin18#n6im-ivvk",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
